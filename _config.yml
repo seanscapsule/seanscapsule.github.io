@@ -20,7 +20,7 @@ title                    : "s4club"
 title_separator          : "-"
 subtitle                 : simply, strictly, slowly and silently
 name                     : "Sean"
-description              : "An amazing website."
+description              : "simply, strictly, slowly and silently"
 url                      : "https://seanscapsule.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -68,7 +68,7 @@ algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  powered_by             : false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Sean"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Second Life"
   location         : "Seoul, South Korea"
   email            :
   links:
